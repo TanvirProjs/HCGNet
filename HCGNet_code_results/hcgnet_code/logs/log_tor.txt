@@ -1,0 +1,6 @@
+[torino] seed 0: hcgnet d=10.1 q=7.2 e=7.9 | ridge d=14.7 q=14.0 e=12.4 | gbdt d=9.1 q=5.8 e=8.8 | hcg_ens d=9.1 q=5.9 e=7.8
+[torino] seed 1: hcgnet d=9.2 q=6.9 e=8.1 | ridge d=13.7 q=13.9 e=12.2 | gbdt d=8.5 q=5.3 e=8.3 | hcg_ens d=8.2 q=5.7 e=7.9
+[torino] seed 2: hcgnet d=9.7 q=7.3 e=9.3 | ridge d=15.3 q=14.7 e=13.7 | gbdt d=9.3 q=5.6 e=8.6 | hcg_ens d=9.1 q=6.1 e=8.5
+[transfer] seed 0: zero_shot d=33.6 q=7.2 e=24.1 | scratch_100 d=15.0 q=15.0 e=13.3 | finetune_100 d=14.1 q=9.1 e=11.0 | scratch_300 d=12.0 q=10.2 e=10.0 | finetune_300 d=10.9 q=8.4 e=9.8 | scratch_all d=10.1 q=7.2 e=7.9 | finetune_all d=9.4 q=6.9 e=7.9
+[transfer] seed 1: zero_shot d=32.5 q=6.8 e=25.6 | scratch_100 d=16.8 q=15.2 e=11.7 | finetune_100 d=12.5 q=9.2 e=10.4 | scratch_300 d=11.8 q=9.7 e=9.4 | finetune_300 d=11.0 q=7.9 e=9.3 | scratch_all d=9.2 q=6.9 e=8.1 | finetune_all d=9.0 q=6.7 e=8.3
+[transfer] seed 2: zero_shot d=33.5 q=7.7 e=24.0 | scratch_100 d=17.7 q=14.5 e=13.6 | finetune_100 d=14.0 q=8.7 e=11.6 | scratch_300 d=12.6 q=9.7 e=11.4 | finetune_300 d=12.3 q=7.8 e=10.4 | scratch_all d=9.7 q=7.3 e=9.3 | finetune_all d=9.8 q=6.2 e=9.2

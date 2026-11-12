@@ -1,0 +1,5 @@
+[sherbrooke] seed 0: hcgnet d=9.5 q=5.2 e=7.1 | scaling d=42.0 q=35.6 e=26.4 | ridge d=16.2 q=12.6 e=12.7 | rf d=9.7 q=5.2 e=7.0 | gbdt d=9.9 q=4.9 e=7.4 | hcg_ens d=9.3 q=4.7 e=6.8 | mlp d=10.9 q=6.4 e=8.9
+[sherbrooke] seed 1: hcgnet d=9.8 q=5.2 e=7.3 | scaling d=44.7 q=36.5 e=28.4 | ridge d=16.0 q=12.7 e=13.0 | rf d=9.6 q=5.1 e=7.2 | gbdt d=9.8 q=4.8 e=7.5 | hcg_ens d=9.4 q=4.6 e=7.1 | mlp d=10.7 q=6.5 e=9.8
+[sherbrooke] seed 2: hcgnet d=9.4 q=5.0 e=7.6 | scaling d=44.8 q=36.9 e=27.1 | ridge d=16.8 q=13.3 e=13.0 | rf d=9.3 q=5.0 e=7.5 | gbdt d=9.5 q=4.7 e=7.6 | hcg_ens d=9.1 q=4.6 e=7.2 | mlp d=11.3 q=6.0 e=10.4
+[sherbrooke] seed 3: hcgnet d=9.2 q=5.2 e=8.0 | scaling d=44.8 q=37.0 e=28.1 | ridge d=15.8 q=13.0 e=13.1 | rf d=9.1 q=5.1 e=7.8 | gbdt d=9.4 q=5.0 e=7.9 | hcg_ens d=8.9 q=4.8 e=7.6 | mlp d=11.2 q=6.2 e=9.7
+[sherbrooke] seed 4: hcgnet d=10.4 q=5.9 e=8.4 | scaling d=43.8 q=35.6 e=27.2 | ridge d=16.5 q=13.4 e=12.8 | rf d=10.0 q=5.2 e=8.0 | gbdt d=9.9 q=5.4 e=8.0 | hcg_ens d=9.7 q=5.2 e=7.8 | mlp d=11.3 q=6.9 e=10.2

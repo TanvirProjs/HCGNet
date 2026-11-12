@@ -1,0 +1,16 @@
+[abl] seed 0 no_seq: d=9.26 q=4.88 e=6.92
+[abl] seed 0 no_qubit: d=9.91 q=5.30 e=7.24
+[abl] seed 0 no_glob: d=14.56 q=10.14 e=11.63
+[abl] seed 0 sum_readout: d=9.62 q=5.10 e=7.18
+[abl] seed 0 no_prior done
+[abl] seed 0 single_task: d=9.86 q=5.05 e=7.34
+[abl] seed 1 no_seq: d=9.82 q=5.11 e=7.25
+[abl] seed 1 no_qubit: d=9.63 q=5.25 e=7.58
+[abl] seed 1 no_glob: d=14.63 q=11.09 e=12.50
+[abl] seed 1 sum_readout: d=9.44 q=4.99 e=7.13
+[abl] seed 1 no_prior done
+[abl] seed 2 no_seq: d=9.56 q=4.92 e=7.51
+[abl] seed 2 no_qubit: d=9.81 q=5.32 e=7.82
+[abl] seed 2 no_glob: d=15.39 q=11.19 e=12.66
+[abl] seed 2 sum_readout: d=10.06 q=5.39 e=7.72
+[abl] seed 2 no_prior done

@@ -1,0 +1,9 @@
+[lofo] adder: gnn d=15.7 q=15.7 e=15.5 | gbdt d=26.6 q=13.6 e=15.3
+[lofo] bv: gnn d=22.6 q=13.6 e=44.5 | gbdt d=31.5 q=13.9 e=41.9
+[lofo] ghz: gnn d=23.5 q=20.4 e=16.3 | gbdt d=25.5 q=27.7 e=22.5
+[lofo] qaoa: gnn d=26.0 q=13.7 e=13.3 | gbdt d=21.3 q=15.8 e=16.3
+[lofo] qft: gnn d=32.3 q=25.7 e=30.8 | gbdt d=46.9 q=22.0 e=26.7
+[lofo] qv: gnn d=22.3 q=11.1 e=12.1 | gbdt d=47.5 q=17.1 e=24.0
+[lofo] random: gnn d=15.9 q=12.0 e=14.1 | gbdt d=17.7 q=16.3 e=16.2
+[lofo] su2: gnn d=30.6 q=22.1 e=17.9 | gbdt d=34.1 q=21.5 e=17.1
+[lofo] trotter: gnn d=37.8 q=16.9 e=17.9 | gbdt d=115.4 q=37.4 e=46.7
